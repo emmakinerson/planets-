@@ -1,2 +1,4 @@
 Mars is red. Has multiple moons.
 second line 
+
+need to actually save changes in this doc using control s and then git add, git commit, and git push 
